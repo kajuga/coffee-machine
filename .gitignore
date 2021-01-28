@@ -1,0 +1,16 @@
+*.class
+.idea
+task/build/*
+task/out/*
+/Coffee Machine/task/build
+.gradle
+/Coffee Machine/task/out
+/course-info.yaml
+/course-remote-info.yaml
+/Coffee Machine/lesson-info.yaml
+/Coffee Machine/Brush up your code/
+/Coffee Machine/Buy, fill, take_/
+/Coffee Machine/Estimate the number of servings/
+/Coffee Machine/Ingredient calculator/
+/Coffee Machine/Keep track of the supplies/
+/Coffee Machine/Making coffee/
